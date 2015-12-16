@@ -35,4 +35,4 @@ endfunction
 
 xnoremap <silent> <Plug>RubocopAutocorrect :<C-U>call <SID>main()<CR>'"))
 
-xmap ra <Plug>RubocopAutocorrect
+xmap = <Plug>RubocopAutocorrect
